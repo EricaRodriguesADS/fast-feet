@@ -6,10 +6,6 @@
   É um app para uma transportadora fictícia
 </h3>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Ferraçrlçfdlfldfldfdp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ### **Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
