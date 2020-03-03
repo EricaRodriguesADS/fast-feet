@@ -14,3 +14,7 @@ O projeto backend foi desenvolvido com as seguintes tecnologias:
 - ESLint + Prettier;
 - Sequelize (PostgreSQL);
 
+<h1 align="center">
+  <img alt="Em construção" title="Em construção" src="https://user-images.githubusercontent.com/15815226/75787709-dbcd1a80-5d45-11ea-93d5-2009e784ca9a.png" width="200px" height="200px" />
+</h1>  
+  
