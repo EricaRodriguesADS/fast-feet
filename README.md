@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  É um app para uma transportadora fictícia
+  Aplicação desenvolvida para uma transportadora fictícia, o FastFeet.
 </h3>
 
 ### **Tecnologias**
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto backend foi desenvolvido com as seguintes tecnologias:
 
 - Sucrase + Nodemon;
 - ESLint + Prettier;
