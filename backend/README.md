@@ -2,7 +2,7 @@
 
 Após clonar o repositório, acesse a pasta do projeto:
 
-    cd fast-feet/backendcd 
+    cd fast-feet/backend
 
 Em seguida, instale as dependências:
 
